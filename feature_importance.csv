@@ -1,0 +1,37 @@
+SegmentID,SegmentName,Feature,Importance
+1,Long-Tenure Value,num__Tenure,0.5506485520294694
+1,Long-Tenure Value,num__MonthlyCharges,0.10125270356829467
+1,Long-Tenure Value,num__TotalCharges,0.07940476829690686
+1,Long-Tenure Value,num__SeniorCitizen,0.0
+1,Long-Tenure Value,cat__Contract_Month-to-month,0.056003167213263864
+1,Long-Tenure Value,cat__Contract_One year,0.014182991157244529
+1,Long-Tenure Value,cat__Contract_Two year,0.06708230028248652
+1,Long-Tenure Value,cat__PaymentMethod_Bank Transfer,0.019977466591976308
+1,Long-Tenure Value,cat__PaymentMethod_Credit Card,0.07249126452394386
+1,Long-Tenure Value,cat__PaymentMethod_Electronic Check,0.010990379738899235
+1,Long-Tenure Value,cat__PaperlessBilling_No,0.010523950145724903
+1,Long-Tenure Value,cat__PaperlessBilling_Yes,0.0174424564517899
+2,Established High-Value,num__Tenure,0.5976265536206494
+2,Established High-Value,num__MonthlyCharges,0.13470342134474733
+2,Established High-Value,num__TotalCharges,0.08246310854418769
+2,Established High-Value,num__SeniorCitizen,0.0
+2,Established High-Value,cat__Contract_Month-to-month,0.06369952220076167
+2,Established High-Value,cat__Contract_One year,0.02663654240100428
+2,Established High-Value,cat__Contract_Two year,0.018354001102022226
+2,Established High-Value,cat__PaymentMethod_Bank Transfer,0.01261658947564399
+2,Established High-Value,cat__PaymentMethod_Credit Card,0.008822084534062285
+2,Established High-Value,cat__PaymentMethod_Electronic Check,0.013933006512681055
+2,Established High-Value,cat__PaperlessBilling_No,0.02025659821321388
+2,Established High-Value,cat__PaperlessBilling_Yes,0.020888572051025997
+3,Newer High-Charge,num__Tenure,0.6156482267966675
+3,Newer High-Charge,num__MonthlyCharges,0.10262913402661356
+3,Newer High-Charge,num__TotalCharges,0.11508420532623968
+3,Newer High-Charge,num__SeniorCitizen,0.0
+3,Newer High-Charge,cat__Contract_Month-to-month,0.04593158685975521
+3,Newer High-Charge,cat__Contract_One year,0.04871257002384525
+3,Newer High-Charge,cat__Contract_Two year,0.011268169308588816
+3,Newer High-Charge,cat__PaymentMethod_Bank Transfer,0.016638106536400448
+3,Newer High-Charge,cat__PaymentMethod_Credit Card,0.015321814501410364
+3,Newer High-Charge,cat__PaymentMethod_Electronic Check,0.008783103450396835
+3,Newer High-Charge,cat__PaperlessBilling_No,0.009526508841741995
+3,Newer High-Charge,cat__PaperlessBilling_Yes,0.010456574328340304

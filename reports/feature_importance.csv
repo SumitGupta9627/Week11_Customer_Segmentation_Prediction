@@ -1,0 +1,37 @@
+SegmentID,SegmentName,Feature,Importance
+1,Long-Tenure Value,num__Tenure,0.49053630684800564
+1,Long-Tenure Value,num__MonthlyCharges,0.15636506154877688
+1,Long-Tenure Value,num__TotalCharges,0.10294892415919815
+1,Long-Tenure Value,cat__Contract_Month-to-month,0.06213976253494885
+1,Long-Tenure Value,cat__PaymentMethod_Credit Card,0.05824664567448873
+1,Long-Tenure Value,cat__Contract_Two year,0.05787907585608356
+1,Long-Tenure Value,cat__PaperlessBilling_No,0.018185428810054312
+1,Long-Tenure Value,cat__PaymentMethod_Bank Transfer,0.013995196321583872
+1,Long-Tenure Value,cat__PaymentMethod_Electronic Check,0.013957836188839046
+1,Long-Tenure Value,cat__Contract_One year,0.01367633782325816
+1,Long-Tenure Value,cat__PaperlessBilling_Yes,0.012069424234762711
+1,Long-Tenure Value,num__SeniorCitizen,0.0
+2,Established High-Value,num__Tenure,0.6069388921057398
+2,Established High-Value,num__MonthlyCharges,0.1305681309428007
+2,Established High-Value,num__TotalCharges,0.08424169245804844
+2,Established High-Value,cat__Contract_Month-to-month,0.05697034837018632
+2,Established High-Value,cat__Contract_One year,0.02458567513747188
+2,Established High-Value,cat__Contract_Two year,0.023396458694769803
+2,Established High-Value,cat__PaperlessBilling_Yes,0.017836486319716186
+2,Established High-Value,cat__PaperlessBilling_No,0.017815011858621537
+2,Established High-Value,cat__PaymentMethod_Bank Transfer,0.01370991609252599
+2,Established High-Value,cat__PaymentMethod_Credit Card,0.012107513703449061
+2,Established High-Value,cat__PaymentMethod_Electronic Check,0.01182987431667029
+2,Established High-Value,num__SeniorCitizen,0.0
+3,Newer High-Charge,num__Tenure,0.5879196359292493
+3,Newer High-Charge,num__MonthlyCharges,0.12286233352329663
+3,Newer High-Charge,num__TotalCharges,0.12087856184445321
+3,Newer High-Charge,cat__Contract_Month-to-month,0.048224564407345516
+3,Newer High-Charge,cat__Contract_One year,0.031094145812649725
+3,Newer High-Charge,cat__PaymentMethod_Bank Transfer,0.018383879769827204
+3,Newer High-Charge,cat__PaymentMethod_Credit Card,0.017383627627496567
+3,Newer High-Charge,cat__PaperlessBilling_No,0.01529614615707213
+3,Newer High-Charge,cat__Contract_Two year,0.014705094522583976
+3,Newer High-Charge,cat__PaymentMethod_Electronic Check,0.011904630337033555
+3,Newer High-Charge,cat__PaperlessBilling_Yes,0.011347380068992094
+3,Newer High-Charge,num__SeniorCitizen,0.0

@@ -1,0 +1,4 @@
+SegmentID,SegmentName,Customers,SharePercent,AvgTenure,AvgMonthlyCharges,AvgTotalCharges,ChurnRatePercent,MostCommon_Contract,MostCommon_PaymentMethod,MostCommon_PaperlessBilling
+1,Long-Tenure Value,114,22.8,39.54,97.83,6239.81,8.77,One year,Credit Card,No
+2,Established High-Value,249,49.8,35.7,108.14,4274.98,10.04,Month-to-month,Credit Card,No
+3,Newer High-Charge,137,27.4,35.54,136.77,2504.63,13.14,One year,Electronic Check,Yes
